@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import os
 import tkinter as tk
 from tkinter import filedialog
@@ -62,13 +56,6 @@ if __name__ == "__main__":
     root.mainloop()
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
